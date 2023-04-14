@@ -1,6 +1,6 @@
 # New Line Separated Values (.nlsv)
 
-!!! Repository is merged to [data-pack](https://github.com/re-pesk/data-pack) !!!
+!!! Repository merged to [Data-Pack](https://github.com/re-pesk/data-pack) !!!
 
 New Line Separated Values (NLSV) is a type of [DSV] file that uses a new line character to separate fields and records:
 
